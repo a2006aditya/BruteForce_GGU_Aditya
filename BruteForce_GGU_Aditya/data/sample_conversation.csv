@@ -1,0 +1,6 @@
+conversation_id,timestamp,speaker,message
+101,2026-10-01 10:00:00,user,How do I reset my password?
+101,2026-10-01 10:01:00,agent,You can click on 'Forgot Password' on the login screen.
+101,2026-10-01 10:02:00,user,What if I don't receive the email?
+102,2026-10-01 10:05:00,user,Is there a discount code for annual plans?
+102,2026-10-01 10:06:00,agent,Could you clarify which plan you are looking at?
